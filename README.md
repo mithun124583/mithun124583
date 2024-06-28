@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mithunbiswas124583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithun biswas" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mithunbiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mithunbiswas" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mithun biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mithun biswas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mithunbiswas124583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithun biswas" height="50" width="60" /></a>
+<a href="https://codeforces.com/profile/mithunbiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mithunbiswas" height="50" width="60" /></a>
+<a href="https://www.leetcode.com/mithun biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mithun biswas" height="50" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
