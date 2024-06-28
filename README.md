@@ -5,5 +5,5 @@
 - 📫 How to reach me:
    mithunbiswasengr@gmail.com
   
-  Tf you think I can help you achieve your vision and elevate your project to new heights ,feel free to connect with me on Linkedin or reach out via email.Lets collaborate and turn ideas into reality.
+  If you think I can help you achieve your vision and elevate your project to new heights ,feel free to connect with me on Linkedin or reach out via email.Lets collaborate and turn ideas into reality.
   
