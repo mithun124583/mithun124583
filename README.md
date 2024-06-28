@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **mithunbiswasengr@gmail.com**
 
+- If you think I can help you achieve your vision and elevate your project to new heights ,feel free to connect with me on LinkedIn or reach out via email. Let's collaborate and turn ideas into reality!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mithunbiswas124583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithun biswas" height="30" width="40" /></a>
