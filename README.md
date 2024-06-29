@@ -7,7 +7,7 @@
 
 - 📫 How to reach me:  **mithunbiswasengr@gmail.com**
 
- If you think I can help you achieve your vision and elevate your project to new heights ,feel free to connect with me on LinkedIn or reach out via email. Let's collaborate and turn ideas into reality!
+ If you think I can help you achieve your vision and elevate your project to new heights ,feel free to connect with me on <a href="https://linkedin.com/in/mithunbiswas124583" target="blank"> LinkedIn </a> or reach out via <a href="mithunbiswasengr@gmail.com" target="blank"> Email </a>. Let's collaborate and turn ideas into reality!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
